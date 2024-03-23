@@ -284,7 +284,7 @@ export default function ShopItem({
                 <div className="">
                   <img
                     src={
-                      "https://github.com/Ender-Wang/giftoday/blob/master/frontend/src/images/shopItems/" +
+                      "https://github.com/AiningYu/giftoday/blob/master/frontend/src/images/shopItems/" +
                       item.image +
                       "?raw=true"
                     }
@@ -350,7 +350,7 @@ export default function ShopItem({
                 <div className="">
                   <img
                     src={
-                      "https://github.com/Ender-Wang/giftoday/blob/master/frontend/src/images/shopItems/" +
+                      "https://github.com/AiningYu/giftoday/tree/master/frontend/src/images/shopItems/" +
                       item.image +
                       "?raw=true"
                     }

@@ -179,7 +179,7 @@ export default function OrderSummary({ onTotalPriceChange }) {
                             <div className="h-20 w-20 flex-shrink-0 overflow-hidden rounded-lg bg-gray-200 sm:h-40 sm:w-40">
                               <img
                                 src={
-                                  "https://github.com/Ender-Wang/giftoday/blob/master/frontend/src/images/shopItems/" +
+                                  "https://github.com/AiningYu/giftoday/blob/master/frontend/src/images/shopItems/" +
                                   cart.image +
                                   "?raw=true"
                                 }
